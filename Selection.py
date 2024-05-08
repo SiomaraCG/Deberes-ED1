@@ -1,3 +1,4 @@
+# Se define una función llamada selection_sort que toma un arreglo como entrada
 def selection_sort(arreglo):
     # Iteramos a través de todos los elementos del arreglo
     for i in range(len(arreglo)):
