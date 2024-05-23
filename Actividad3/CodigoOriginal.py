@@ -20,7 +20,7 @@ def sumar_elementos(lista):
     return suma
 
 # Main
-if _name_ == "_main_":
+if __name__ == "__main__":
     tamano_lista = 1000
     lista = generar_lista(tamano_lista)
     maximo = encontrar_maximo(lista)
@@ -29,3 +29,4 @@ if _name_ == "_main_":
     print(f"Lista: {lista}")
     print(f"Máximo: {maximo}")
     print(f"Suma: {suma}")
+
