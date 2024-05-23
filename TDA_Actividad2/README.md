@@ -1,6 +1,6 @@
 # Sistema de Gestión de Tareas con Cola
 
-Este proyecto implementa una cola (Queue) y un sistema de gestión de tareas simple en Python.
+Este proyecto implementa una cola y un sistema de gestión de tareas simple en Python.
 
 ## Descripción
 
